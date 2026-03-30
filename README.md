@@ -18,6 +18,12 @@ I'm drawn to how AI is reshaping the world, and I want to be part of building it
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-fearofbugs-181717?style=flat-square&logo=github)](https://github.com/fearofbugs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
 </td>
 <td valign="top" width="45%" align="center">
 
@@ -29,25 +35,7 @@ I'm drawn to how AI is reshaping the world, and I want to be part of building it
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-
-![fearofbugs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fearofbugs&show_icons=true&theme=radical&title_color=f5a623&icon_color=f5a623&text_color=ffffff&bg_color=0d0d0d&border_color=f5a623)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fearofbugs&theme=dark&ring=f5a623&fire=ff4500&currStreakLabel=f5a623&border=f5a623)
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-fearofbugs-181717?style=flat-square&logo=github)](https://github.com/fearofbugs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=fearofbugs&color=orange&style=flat-square&label=Profile+Views)
 
 *"The battle isn't over until you stop getting back up."*
 
